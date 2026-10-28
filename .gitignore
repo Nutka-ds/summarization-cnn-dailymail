@@ -1,0 +1,14 @@
+# Dane (setki MB, do odtworzenia notatnikiem 03_preprocessing.ipynb)
+data/
+
+# Wytrenowane modele i logi eksperymentów
+models/
+mlruns/
+
+# Pliki tymczasowe
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Materiały kursu (nie są częścią projektu)
+Pliki od szkoly/

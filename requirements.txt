@@ -1,0 +1,23 @@
+# Dane i ewaluacja 
+datasets==5.0.1
+pandas==3.0.6
+pyarrow==25.0.1
+evaluate==0.4.6
+rouge_score==0.1.2
+nltk==3.10.4
+matplotlib==3.11.2
+
+# Model 
+transformers==5.17.0
+torch==2.14.0
+accelerate==1.15.0
+
+# Analiza wyników 
+sumy==0.13.0
+bert-score==0.3.13
+
+# API 
+fastapi==0.143.0
+uvicorn==0.54.0
+httpx==0.28.1
+pytest==9.1.1

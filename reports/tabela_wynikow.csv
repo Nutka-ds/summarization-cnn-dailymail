@@ -1,0 +1,5 @@
+,rouge1,rouge2,rougeLsum,BERTScore F1,średnia długość (słowa)
+Lead-3,40.06,17.48,36.37,25.49,76.44
+TextRank,29.71,9.99,26.46,14.0,105.96
+bart-base,41.06,18.63,37.98,28.77,57.71
+bart-large-cnn (literatura),44.16,21.28,40.9,,

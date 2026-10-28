@@ -1,0 +1,4 @@
+,Lead-3 (zmierzony),bart-base (mój model),bart-large-cnn (literatura)
+rouge1,40.05,41.05,44.16
+rouge2,17.49,18.64,21.28
+rougeLsum,36.38,37.99,40.9
